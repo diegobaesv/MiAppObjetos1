@@ -22,6 +22,7 @@ public class Principal {
         gato.correr();
         
         //Crear una clase persona con atributos(5) y metodos(2), y crear 2 objetos a partir de ella
+        //linea nueva
         Persona persona = new Persona();
         persona.altura = 170;
         persona.apellido = "Flores";
