@@ -3,13 +3,12 @@ package modelos;
 
 public class Persona {
     private String nombre;
-    private int edad;
     private String apellido;
+    private int edad;
     private String nacionalidad;
     private int altura;
     private int peso;
     private float imc;
-    //getter y setter
 
     public int getPeso() {
         return peso;
